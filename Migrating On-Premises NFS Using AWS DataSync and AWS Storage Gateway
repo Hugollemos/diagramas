@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T20:15:14.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="-s2FPYH2a2Ae0SCHmWWB" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-30T20:15:33.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="7IE-Yxegr7euvhrl_1X9" version="21.6.6" type="github" pages="2">
   <diagram name="Página-1" id="LgriN4cge6cKolvQ-urX">
     <mxGraphModel dx="899" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="gD0jkm5TgWkdLP_fyCHG-1" value="&lt;span style=&quot;background-color: rgb(214, 213, 224);&quot;&gt;us-west-1&lt;/span&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;verticalAlign=top;align=left;spacingLeft=30;dashed=1;strokeColor=#828282;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="300" width="770" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="yR-F-Pdn7aKi1myq3vYU-2" value="Region" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="yR-F-Pdn7aKi1myq3vYU-2" value="&lt;font color=&quot;#131414&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Region&lt;/b&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="370" y="365" width="281" height="350" as="geometry" />
         </mxCell>
         <mxCell id="yR-F-Pdn7aKi1myq3vYU-1" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
